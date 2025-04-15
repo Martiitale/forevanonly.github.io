@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: sans-serif;
+}
+
+input, button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 1.2rem;
+}
+
+#link {
+    margin-top: 20px;
+    color: red;
+    font-weight: bold;
+}
+
+#passwordLabel {
+    font-size: 20px;
+    font-weight: bold;
+}
