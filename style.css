@@ -20,6 +20,12 @@ input, button {
     font-weight: bold;
 }
 
+#clue {
+    margin-top: 0;
+    color: green;
+    font-weight: bold;
+}
+
 #passwordLabel {
     font-size: 20px;
     font-weight: bold;
