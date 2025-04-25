@@ -1,2 +1,2 @@
 # Project
-Basic readme, update me in the future.
+Basic readme will update me in the future.
